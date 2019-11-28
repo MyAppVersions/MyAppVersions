@@ -1,0 +1,10 @@
+{ 
+   "User":{
+      "VersionName":"1.0",
+      "VersionCode":"12"
+   },
+   "Shop":{
+      "VersionName":"1.0",
+      "VersionCode":"10"
+   }
+}
