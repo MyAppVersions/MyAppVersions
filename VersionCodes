@@ -1,10 +1,12 @@
 { 
    "User":{
       "VersionName":"1.0",
-      "VersionCode":"12"
+      "VersionCode":"12",
+      "Type":"IMMEDIATE"
    },
    "Shop":{
       "VersionName":"1.0",
-      "VersionCode":"10"
+      "VersionCode":"10",
+      "Type":"IMMEDIATE"
    }
 }
